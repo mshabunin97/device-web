@@ -1,7 +1,7 @@
-# Проект : Аренда электросамокатов
-Этот многостраничный сайт разработан для предоставления услуг по аренде электросамокатов, велосипедов, электровелосипедов, тренажёров и консолей. Он включает в себя различные функциональные возможности, которые обеспечивают удобство для пользователей.
+# Electric Scooter Rental - Web
+This multi-page website is designed to provide services for renting electric scooters, bicycles, electric bicycles, exercise machines, and game consoles. It includes various functional features that ensure convenience for users.
 
-## Технологии
+## Technologies Used
 
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
@@ -11,16 +11,16 @@
 ![Gulp](https://img.shields.io/badge/-Gulp-cf4647?logo=gulp&logoColor=white)
 
 
-## Описание прокета
+## Project Description
 
-* В написании проекта использовалась методология BEM
-* Есть адаптив до 320px
-* Использовал модульную структуру, что способствует более чистому и организованному коду
-* Реализован функционал модальных окон, которые позволяют отображать информацию о продуктах или формы для оформления заказа. 
-* Для удобства навигации по различным категориям реализован функционал переключения между вкладками (tabs). 
-* Реализован функционал аккордеона, позволяющий сворачивать и разворачивать информационные блоки для предоставления дополнительных деталей или описания.
-* Сайт включает различные CSS анимации, которые делают пользовательский интерфейс более привлекательным и живым.
+* The project was developed using the BEM methodology.
+* It is fully responsive and adapts to screen sizes down to 320px.
+* Modular structure is implemented to maintain clean and organized code.
+* Modal windows are used to display product information or order forms.
+* Tab functionality is implemented to navigate between different categories.
+* Accordion functionality allows collapsing and expanding informational blocks for providing additional details or descriptions.
+* The website incorporates various CSS animations to enhance the user interface and make it more engaging.
 
-## Ссылки проекта
+## Project Links
 
-Ссылка на проект для просмотра - https://mshabunin97.github.io/device/
+Link to the project for viewing - https://mshabunin97.github.io/device/
